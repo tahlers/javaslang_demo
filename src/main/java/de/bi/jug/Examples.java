@@ -15,7 +15,7 @@ import javaslang.control.Right;
 import java.time.LocalDate;
 import java.util.function.Function;
 
-public class Example1 {
+public class Examples {
 
     public static void main(String[] args) {
         funfun();
